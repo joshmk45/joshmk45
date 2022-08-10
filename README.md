@@ -2,6 +2,10 @@
 - 👀 I’m interested in ...system development 
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...
+- ☺️  what i know
+       *frontend development by using HTML, CSS, 
+        and javascript. 
+       *backend development by using php.
 - 📫 How to reach me ...mwanukejose0627@gmail.com
 
 <!---
