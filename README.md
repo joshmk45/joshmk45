@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...
 - ☺️  what i know
-       *frontend development by using HTML, CSS, 
-        and javascript. 
-       *backend development by using php.
+       ->frontend development by using HTML, CSS and javascript. 
+       ->backend development by using php and laravel frameworks.
 - 📫 How to reach me ...mwanukejose0627@gmail.com
 
 <!---
