@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - ☺️  what i know
        ->frontend development by using HTML, CSS and javascript. 
-       ->backend development by using php and laravel frameworks.
+       ->backend development by using php and laravel framework.
 - 📫 How to reach me ...mwanukejose0627@gmail.com
 
 <!---
